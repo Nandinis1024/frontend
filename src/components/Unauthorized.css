@@ -1,0 +1,16 @@
+.unauthorized-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .unauthorized-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff0000; /* Red color */
+  }
+  
+  .unauthorized-message {
+    font-size: 16px;
+    color: #333; /* Dark gray color */
+  }
+  
